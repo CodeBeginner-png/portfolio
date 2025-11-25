@@ -98,7 +98,6 @@ section {
   justify-content: center;
 }
 .about .about-container {
-  display: flex;
   align-items: center;
   justify-content: center;
   gap: 10rem;
