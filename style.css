@@ -10,9 +10,9 @@
 
 header {
   position: fixed;
-  top: 0;
-  left: 0;
-  transform: translateX(0%);
+  top: 1rem;
+  left: 50%;
+  transform: translateX(-50%);
   display: flex;
   align-items: center;
   justify-content: space-between;
