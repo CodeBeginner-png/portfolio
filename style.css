@@ -172,7 +172,7 @@ section {
 }
 .experience-info {
   display: flex;
-  allign-items: center;
+  align-items: center;
   justify-content: center;
   gap: 5rem;
 }
